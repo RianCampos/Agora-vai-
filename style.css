@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(42, 41, 43);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color:rgb(31, 39, 75);
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+
+ }
+.cabecalho-imagem{
+    width: 20%;
+
+}
+.imagem-1{
+    size: 50px;
+}
+
